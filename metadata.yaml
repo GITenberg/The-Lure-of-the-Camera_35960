@@ -1,0 +1,29 @@
+_repo: The-Lure-of-the-Camera_35960
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35960-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Olcott, Charles S. (Charles Sumner)
+    alias: Olcott, Charles Sumner
+    birthdate: 1864
+    deathdate: 1935
+    gutenberg_agent_id: '38001'
+    url: http://www.gutenberg.org/2009/agents/38001
+description: ''
+gutenberg_issued: '2011-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35960'
+  lccn: '14016459'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels'
+- !lcsh 'Photography'
+- !lcc 'G'
+title: The Lure of the Camera
+url: http://www.gutenberg.org/ebooks/35960
